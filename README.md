@@ -1,3 +1,12 @@
+# Proje Hakkında
+
+Temel bir sayaç uygulamasıdır. React ve redux kullanılarak componentler arası iletişim gerçekleştirilmiştir. +1, -1, +2 butonları ile sayacın sayısı birer componenttir. Bu componentler arası iletişim redux ile kullanışlı hale getirilmiştir.
+
+# About Project
+
+It is a basic counter application. Communication between components is realized using React and redux. 3 (+1,-1,+2) buttons and counter are components. Communication between these components has been made useful with redux.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
