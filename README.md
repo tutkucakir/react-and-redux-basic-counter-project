@@ -4,7 +4,7 @@ Temel bir sayaç uygulamasıdır. React ve redux kullanılarak componentler aras
 
 # About Project
 
-It is a basic counter application. Communication between components is realized using React and redux. 3 (+1,-1,+2) buttons and counter are components. Communication between these components has been made useful with redux.
+It is a basic counter application. Communication between components is realized using React and redux. 3 buttons (+1,-1,+2) and counter are components. Communication between these components has been made useful with redux.
 
 
 # Getting Started with Create React App
